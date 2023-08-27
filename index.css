@@ -1,0 +1,42 @@
+Body{
+    background-color: rgb(206, 244, 231);
+    padding: 20px; 
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px; 
+    margin-right: 20px; 
+    text-align: center;
+    
+}
+.Big-title{
+    background-color:skyblue;  
+    color:blue; 
+    font-family: 'Courier New', Courier, monospace;
+    font-size:30px; 
+    line-height: 100px;
+    text-align: center;
+    text-decoration-line: underline;
+    box-shadow: 10px 10px 20px red; 
+
+}
+
+.Hide-H1{
+    background-color: rgb(248, 199, 109);  
+    color: red; 
+    font-family: 'Courier New', Courier, monospace;
+    font-size:30px; 
+    font-weight: bold; 
+    line-height: 100px;
+    text-align: center;
+}
+
+.Unhide-H1{
+    background-color: lightgoldenrodyellow;  
+    color:green; 
+    font-family: 'Courier New', Courier, monospace;
+    font-size:30px; 
+    font-weight: bold; 
+    line-height: 100px;
+    text-align: center;
+
+}
